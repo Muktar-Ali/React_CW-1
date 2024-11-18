@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Muktar-Ali/React_CW-1.git/static/css/main.1208bd82.css",
-    "main.js": "/Muktar-Ali/React_CW-1.git/static/js/main.a3689582.js",
-    "index.html": "/Muktar-Ali/React_CW-1.git/index.html",
-    "main.1208bd82.css.map": "/Muktar-Ali/React_CW-1.git/static/css/main.1208bd82.css.map",
-    "main.a3689582.js.map": "/Muktar-Ali/React_CW-1.git/static/js/main.a3689582.js.map"
+    "main.css": "/React_CW-1/static/css/main.1208bd82.css",
+    "main.js": "/React_CW-1/static/js/main.a3689582.js",
+    "index.html": "/React_CW-1/index.html",
+    "main.1208bd82.css.map": "/React_CW-1/static/css/main.1208bd82.css.map",
+    "main.a3689582.js.map": "/React_CW-1/static/js/main.a3689582.js.map"
   },
   "entrypoints": [
     "static/css/main.1208bd82.css",
